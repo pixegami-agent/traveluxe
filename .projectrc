@@ -1,0 +1,11 @@
+{
+  "name": "traveluxe",
+  "description": "Luxury travel agent site - minimalist blue & gold design",
+  "port": 3007,
+  "subdomain": "traveluxe.pxopenclaw.com",
+  "repository": "https://github.com/pixegami-agent/traveluxe",
+  "deployed": false,
+  "created": "2026-05-07",
+  "theme": "blue-gold-luxury",
+  "features": ["hero", "experiences", "destinations", "cta", "footer"]
+}
